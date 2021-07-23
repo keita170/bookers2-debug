@@ -7,6 +7,6 @@ resources :books,only: [:show,:index,:edit,:create, :update,]
 delete 'books/:id' => 'books#destroy', as:'destroy_book'
 
 root 'homes#top'
-get 'homes/about' => 'homes#about'
+get 'home/about' => 'homes#about'
 
 end

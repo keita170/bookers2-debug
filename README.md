@@ -1,24 +1,6 @@
-# README
+# Bookers2にてバグを確認する為に作ったアプリです
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+学習する為の内容になってます。  
+アプリの内容自体はしっかりしてません。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 色々なバグを起こしました。
